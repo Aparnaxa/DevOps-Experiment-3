@@ -10,3 +10,11 @@ creating feature branches and submitting pull requests.
 
 ## Author
 Aparna
+
+## Collaboration Workflow
+
+- Created a remote repository on GitHub.
+- Connected the local repository to GitHub.
+- Pushed code using Git.
+- Created a feature branch.
+- Prepared changes for a Pull Request.
